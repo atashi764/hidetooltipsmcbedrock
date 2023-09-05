@@ -1,0 +1,27 @@
+{
+    "format_version": 2,
+    "header": {
+        "min_engine_version": [
+            1,
+            19,
+            0
+        ],
+        "name": "Hide Tooltips",
+        "description": "Made by Rahee07 on 20230905",
+        "uuid": "ef9eb077-90f2-4d39-9fa3-9b62a8a6632c",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [{
+        "type": "resources",
+        "uuid": "4662a65d-7d09-4753-a4ab-040efe30e14e",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
+}
