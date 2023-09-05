@@ -32,6 +32,7 @@
                       "type": "image",
                       "size": [ "100%sm + 12px", "100%sm + 5px" ],
                       "texture": "textures/blocks/bedrock",
+                      // I have changed the line below
                       "alpha": 0.0
                     }
                   },
@@ -43,6 +44,7 @@
                       "layer": 31,
                       "color": "$text_color",
                       "text": "#text",
+                      // I have changed the line below
                       "alpha": 0.0,
                       "bindings": [
                         {
