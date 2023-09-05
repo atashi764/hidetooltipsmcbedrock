@@ -7,6 +7,6 @@ Basically in /ui/hud_screen.json I added a codeblock from vanilla Minecraft whic
 
 The file comes from Minecraft 1.20.12. I marked modified lines with // comments for easier understanding. (_Line 36 and 48 to be specific_)
 
-You can download it from [Releases](github.com/randomMurgi/hidetooltipsmcbedrock/tag/releases](https://github.com/randomMurgi/hidetooltipsmcbedrock/releases/tag/release)
+You can download it from [Releases](https://github.com/randomMurgi/hidetooltipsmcbedrock/releases/tag/release)
 
 You may also want to check out Vanilla resource pack from [here](aka.ms/resourcepacktemplate)
