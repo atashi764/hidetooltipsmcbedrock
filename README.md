@@ -9,4 +9,4 @@ The file comes from Minecraft 1.20.12. I marked modified lines with // comments 
 
 You can download it from [Releases](https://github.com/randomMurgi/hidetooltipsmcbedrock/releases/tag/release)
 
-You may also want to check out Vanilla resource pack from [here](github.com/Mojang/bedrock-samples)
+You may also want to check out Vanilla resource pack from [here](https://github.com/Mojang/bedrock-samples)
